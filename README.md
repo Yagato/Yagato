@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center" height=43, width=34>
+    <img src = "https://files.passeidireto.com/0bed82c9-a571-4e1f-a625-61a05923c406/0bed82c9-a571-4e1f-a625-61a05923c406.png" width=250 />
+</p>
 
-<!--
-**Yagato/Yagato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=yagato&show_icons=true&theme=radical" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a Junior backend developer.
+- I'm currenytly working on a [hololive API](https://github.com/Yagato/HololiveAPI)!
+- I'm currently learning Unit Testing in Spring Boot.
+
+</p>
+
+<br>
+<br>
+<br>
+
+<h1>My Tech Stack<h1>
+
+<br>
+
+<div>
+    <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width=80 />
+    <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" width=80 />
+    <img  alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg" width=80 />
+    <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" width=80 />
+</div>
