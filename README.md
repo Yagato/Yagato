@@ -8,7 +8,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=yagato&show_icons=true&theme=radical" />
 
 - I'm a Junior backend developer.
-- I'm currenytly working on a [hololive API](https://github.com/Yagato/HololiveAPI)!
+- I'm currently working on a [hololive API](https://github.com/Yagato/HololiveAPI)!
 - I'm currently learning Unit Testing in Spring Boot.
 
 </p>
